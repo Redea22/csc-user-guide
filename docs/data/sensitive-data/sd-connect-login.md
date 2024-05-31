@@ -15,7 +15,7 @@ Login page: https://sd-connect.csc.fi
 
 [![SDConnect-login](images/connect/SDConnect-login.png)](images/connect/SDConnect-login.png)
 
-## Features in SD Connect
+## Features in SD Connect 1
 
 * [Data upload for analysis](https://github.com/CSCfi/csc-user-guide/blob/ac-test-sidenav/docs/data/sensitive-data/sd-connect-upload-for-analysis.md)
 * [Data upload for storage and sharing](https://github.com/CSCfi/csc-user-guide/blob/ac-test-sidenav/docs/data/sensitive-data/sd-connect-upload-for-analysis.md)
